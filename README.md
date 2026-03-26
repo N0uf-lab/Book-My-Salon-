@@ -5,7 +5,7 @@ Book My Salon is a web application that connects users with salons, making it ea
 - Women looking for salons and beauty services
 - Users searching for affordable or discounted services
 - Salon owners who want to promote their services
-  ## Problem
+ ## Problem
 Users often face diffculty finding suitable salons a specific area and comparing prices or offers.At the same time , many salons struggle to raech new customers and promote their services effectively.
 ## Solution
 Book My Salon acts as an intermediary platform between customers and salons.
@@ -20,6 +20,8 @@ It allows users to:
   - filter by price and offers
   - view salon details
   - salon subscription system
+  ## Implementation
+  This project is implemented using HTML and CSS. It includes multiple connected web pages ( Home,About,Services,Contact,Booking) with navigation between them.
   ## Team Members
   - Nouf Nawaf Albalawi -2240005319
   - Lian Sahel Almutairi-2240004225
